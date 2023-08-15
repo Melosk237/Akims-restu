@@ -580,6 +580,7 @@ body.active { overflow: hidden; }
   padding: 40px 30px;
   box-shadow: var(--shadow-2);
   z-index: 1;
+  margin-bottom: 20px;
 }
 
 .promo-card::after {
