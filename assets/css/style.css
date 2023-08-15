@@ -525,7 +525,7 @@ body.active { overflow: hidden; }
 .hero-banner { display: none; }
 
 .hero {
-  background:linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)),url(../images/hero-bg.jpg);
+  background:linear-gradient(rgb(0,0,0,0.7),rgb(0,0,0,0.7)),url(../images/back.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
