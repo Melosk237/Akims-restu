@@ -638,8 +638,9 @@ body.active { overflow: hidden; }
   #ABOUT
 \*-----------------------------------*/
 
-.about { text-align: center; 
-margin-top: 40px;}
+.about { text-align: center;
+  z-index: -1;  
+}
 
 .about-banner {
   position: relative;
