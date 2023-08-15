@@ -565,6 +565,13 @@ body.active { overflow: hidden; }
 .hero-content{
   margin-top: 35px;
 }
+.para{
+  text-decoration: solid;
+  font-weight: bold;
+  font-size: 30px;
+  align-items: center;
+  text-transform: capitalize;
+}
 
 
 
