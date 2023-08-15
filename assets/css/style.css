@@ -867,6 +867,10 @@ body.active { overflow: hidden; }
   top: 50px;
   left: 10px;
 }
+.pp{
+  width: 300px;
+  float: right;
+}
 
 /*-----------------------------------*\
   #TESTIMONIALS
