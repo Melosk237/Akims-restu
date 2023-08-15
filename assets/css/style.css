@@ -562,6 +562,10 @@ body.active { overflow: hidden; }
   color: var(--black);
 }
 
+.hero-content{
+  margin-top: 40px;
+}
+
 
 
 
