@@ -370,6 +370,7 @@ body.active { overflow: hidden; }
 .logo {
   width: 60px;
   height: 30px;
+  float: left;
 }
 
 
