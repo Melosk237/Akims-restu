@@ -1181,6 +1181,7 @@ textarea.input-field {
   }
   .logo{
     float: left;
+    margin-bottom: 20px;
   }
   
 }
