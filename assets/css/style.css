@@ -580,7 +580,6 @@ body.active { overflow: hidden; }
   padding: 40px 30px;
   box-shadow: var(--shadow-2);
   z-index: 1;
-  margin-bottom: 40px;
 }
 
 .promo-card::after {
@@ -639,7 +638,8 @@ body.active { overflow: hidden; }
   #ABOUT
 \*-----------------------------------*/
 
-.about { text-align: center; }
+.about { text-align: center; 
+margin-top: 40px;}
 
 .about-banner {
   position: relative;
